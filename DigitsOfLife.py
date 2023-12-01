@@ -15,6 +15,7 @@ def digitsoflife_Date(_Month, _Day, _Year):
     TOTAL += sum(C)
 
     return TOTAL
+
 def digitsoflife(_Digits):
     A = []
     TOTAL = 0
