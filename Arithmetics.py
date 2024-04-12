@@ -17,20 +17,10 @@ def square_root(x):
         return None
 def absolute_value(x):
     return abs(x)
-def maximum(x,y):
-    return max(x,y)
-def minimum(x,y):
-    return min(x,y)
-def logarithm(x,base):
-    return math.log(x, base)
-def factorial(x):
-    return math.factorial(x)
 def floor_division(x,y):
     return x // y
 def modulus(x, y):
     return x % y
-def round_number(x):
-    return round(x)
 
 import random
 
